@@ -32,6 +32,8 @@ The first command will build the source of your application. The second command 
 
 You can find your API Gateway Endpoint URL in the output values displayed after deployment.
 
+API Gateway Endpoint Url - https://y9xgotp6w6.execute-api.us-east-1.amazonaws.com/Prod/hello?name=Olalekan
+
 ## Use the SAM CLI to build and test locally
 
 Build your application with the `sam build` command.
